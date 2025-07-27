@@ -77,7 +77,3 @@ All todos are automatically saved to your browser's local storage, so your data 
 ## 🤝 Contributing
 
 Feel free to submit issues and enhancement requests!
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
